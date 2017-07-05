@@ -1,2 +1,2 @@
-# git-test
-github tests
+# GIT Test
+github repository for test purposes
